@@ -9,7 +9,7 @@ Warehouse Apparel detector using YOLOv5
 
 ## Webpage -
 ![Capture](https://user-images.githubusercontent.com/59825357/206704855-3d58da19-c2fa-41b5-9aa1-dd08c4b27c3d.PNG)
-<br/>
+<br/><br/>
 
 ## Warehouse Apparel Detected Images-
 ![output](https://user-images.githubusercontent.com/59825357/206687916-c697c0a1-b84c-4101-a24c-90096712a14a.jpg)
